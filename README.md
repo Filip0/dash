@@ -1,1 +1,2 @@
-Check out http://shopify.github.com/dashing for more information.
+docker build dash .
+docker run -d -p 3030:3030 dash
